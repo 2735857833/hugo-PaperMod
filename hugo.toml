@@ -1,0 +1,11 @@
+baseURL = 'https://你的vercel二级域名.vercel.app/'
+languageCode = 'zh-cn'
+title = '我的技术笔记与作品集'
+theme = "PaperMod"
+
+[params]
+    env = "production"
+    title = "我的个人空间"
+    description = "ESP32 与 机器人开发记录"
+    # 这一行非常重要，确保首页能显示内容
+    showFullContent = false
