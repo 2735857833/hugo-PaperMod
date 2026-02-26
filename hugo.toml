@@ -1,4 +1,4 @@
-baseURL = 'https://你的vercel二级域名.vercel.app/'
+baseURL = 'https://hugo-paper-mod-sooty-zeta.vercel.app//'
 languageCode = 'zh-cn'
 title = '我的技术笔记与作品集'
 theme = "PaperMod"
